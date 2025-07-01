@@ -7,8 +7,8 @@
 ## Profile
 - `Name` : LEEGYEONGJU
 - `Email` : gyeongju919@gmail.com
-- 🔭 Major : Java,Python,JavaScript
-  - Minor : SpringBoot,Oracle,Docker
+- 🔭 Major : Java,Python,SpringBoot
+  - Minor : JavaScript,Oracle,Docker
 
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
