@@ -1,7 +1,8 @@
 <p align='center'>
-  <a href="https://github.com/oatmealflyer">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=GyeongJu's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=JAVA%20,Python%20,Full-Stack Developer"/>
+ <a href="https://github.com/oatmealflyer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=GyeongJu's%20Dev%20Repo&fontColor=FFFFFF&desc=JAVA%20,PYTHON%20,Full-Stack%20Developer&descAlign=32&section=footer&reversal=false&fontSize=70&fontAlignY=66&descAlignY=46"> 
   </a>
+
 </p>
 
 ## Profile
