@@ -2,7 +2,6 @@
  <a href="https://github.com/oatmealflyer">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradiant&text=GyeongJu's%20Dev%20Repo&fontColor=FFFFFF&desc=JAVA%20,PYTHON%20,Full-Stack%20Developer&descAlign=32&section=footer&reversal=false&fontSize=70&fontAlignY=66&descAlignY=46"> 
   </a>
-
 </p>
 
 ## Profile
@@ -10,7 +9,7 @@
 - `Email` : gyeongju919@gmail.com
 - 🔭 Major : Java,Python,JavaScript
   - Minor : SpringBoot,Oracle,Docker
- 
+
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
@@ -60,6 +59,12 @@
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
 - [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024) -->
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oatmealflyer&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/oatmealflyer"
+  width="600"
+  height="300"
+/>
+</a>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
