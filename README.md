@@ -1,6 +1,6 @@
 <p align='center'>
  <a href="https://github.com/oatmealflyer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=GyeongJu's%20Dev%20Repo&fontColor=FFFFFF&desc=JAVA%20,PYTHON%20,Full-Stack%20Developer&descAlign=32&section=footer&reversal=false&fontSize=70&fontAlignY=66&descAlignY=46"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradiant&text=GyeongJu's%20Dev%20Repo&fontColor=FFFFFF&desc=JAVA%20,PYTHON%20,Full-Stack%20Developer&descAlign=32&section=footer&reversal=false&fontSize=70&fontAlignY=66&descAlignY=46"> 
   </a>
 
 </p>
