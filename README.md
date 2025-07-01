@@ -15,8 +15,8 @@
 <!-- username은 본인걸로 -->
 <p align='center'>
   <a href="https://github.com/oatmealflyer">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LEEGYEONGJU&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEGYEONGJU&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
