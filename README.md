@@ -58,7 +58,7 @@
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)-->
-- [Project] [부산 여행인프라](http://bjava.iptime.org:8898/) -->
+- [Project] [부산 관광인프라 추천](http://bjava.iptime.org:8898/)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oatmealflyer&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/oatmealflyer"
