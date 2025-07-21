@@ -59,7 +59,7 @@
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)-->
 - [Website] [Portofolio site]
-- [Project] [부산 관광인프라 추천](http://bjava.iptime.org:8898/)
+- [Project] [부산 관광인프라 추천](https://github.com/tour-site/frontend)
 - [Project] [편의점 재고관리 시스템](https://github.com/park0609/mini_project)
 - [SpringBoot] [SpringBoot](https://github.com/oatmealflyer/java-springboot-2025)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oatmealflyer&utm_content=farm">
